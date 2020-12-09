@@ -1,7 +1,5 @@
 # Membership Management project
 
-![CI Status](https://gitlab.telecomnancy.univ-lorraine.fr/sdisapp2021/membership-management/badges/master/pipeline.svg)
-
 ---
 
 ## Overview
