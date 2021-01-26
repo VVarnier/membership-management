@@ -10,7 +10,7 @@ their memberships.
 This project is developed by **[Pierre Bouillon](https://www.linkedin.com/in/pierre-bouillon/)**
 and **[Victor Varnier](https://www.linkedin.com/in/victor-varnier/)**
 
-It is is split among three sub-projects:
+It is split among three sub-projects:
 
 - The [web API](./membership-management), which exposes the managed resources
   through a web REST API,
